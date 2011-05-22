@@ -1,0 +1,8 @@
+int32 robot_index 
+char type
+float32 Vleft
+float32 Vright
+float32 Vtop
+int32 div
+---
+bool error

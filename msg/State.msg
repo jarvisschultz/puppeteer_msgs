@@ -1,0 +1,9 @@
+Header header
+float32 xm
+float32 ym
+float32 xc
+float32 r
+float32 xm_dot
+float32 ym_dot
+float32 xc_dot
+float32 r_dot

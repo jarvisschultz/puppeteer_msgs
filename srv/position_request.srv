@@ -1,0 +1,11 @@
+int32 robot_index 
+char type
+float32 Vleft
+float32 Vright
+float32 Vtop
+int32 div
+---
+float32 xc
+float32 zc
+float32 th
+bool error
