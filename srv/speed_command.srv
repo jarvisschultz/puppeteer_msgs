@@ -1,5 +1,5 @@
 int32 robot_index 
-char type
+uint8 type
 float32 Vleft
 float32 Vright
 float32 Vtop
