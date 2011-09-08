@@ -4,4 +4,4 @@ bin/
 Makefile
 src/
 srv_gen/
-
+msg_gen/
