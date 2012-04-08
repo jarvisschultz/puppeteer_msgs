@@ -5,6 +5,8 @@
    "ROBOTCOMMANDS"
    "<ROBOTPOSE>"
    "ROBOTPOSE"
+   "<ROBOTS>"
+   "ROBOTS"
    "<POINTPLUS>"
    "POINTPLUS"
    "<STATE>"
