@@ -41,6 +41,7 @@ uint8 SPEED_REQ		= 101	#'e' | request current motor speeds
 # message parameters:
 Header header
 int32 robot_index
+int32 type
 int32 number_floats
 int32 div
 
@@ -60,12 +61,14 @@ float32 v_left
 float32 v_right
 float32 v_top_left
 float32 v_top_right
+float32 v_top
 
 # translational and rotational velocities external:
 float32 v_robot
 float32 w_robot
 float32 rdot_left
 float32 rdot_right
+float32 rdot
 
 # desired pose information:
 float32 x_desired
