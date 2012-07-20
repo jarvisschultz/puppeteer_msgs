@@ -25,10 +25,10 @@ uint8 SET_HEIGHT	= 98	#'b' | set string height configuration variables
 # requests
 uint8 POSE_REQ		= 119	#'w' | request robot's (x,y,th) pose
 uint8 SPEED_REQ		= 101	#'e' | request current motor speeds
+uint8 LEN_REQ		= 99    #'c' | request the lengths of the strings
 
 ######################################
 # Still need:			
-# 	- get winch heights	 
 #	- set controller gains
 #	- change robot params	
 ######################################
