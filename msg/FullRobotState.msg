@@ -1,6 +1,6 @@
 geometry_msgs/PoseStamped pose # orientation and location of the robot
 			       # will probably be in the
-			       # robot_pose_pov frame
+			       # robot_odom_pov frame
 
 # string lengths from the POV of the robot:
 float32 left # length of left string
