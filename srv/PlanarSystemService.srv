@@ -1,0 +1,9 @@
+# this is a service request to ask for information about a reference
+# trajectory for a the 2D suspended mass system (index takes
+# precedence)
+float32 t
+uint8 index
+---
+puppeteer_msgs/PlanarSystemConfig config
+
+
