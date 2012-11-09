@@ -9,7 +9,7 @@
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/command_msgs</url>
   <depend package="geometry_msgs" />
-
+  <depend package="std_msgs" />
 </package>
 
 

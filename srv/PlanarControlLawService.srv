@@ -1,0 +1,7 @@
+# this is a service request to ask for information about a controller
+# trajectory for a the 2D suspended mass system (index takes
+# precedence)
+float32 t
+uint16 index
+---
+puppeteer_msgs/PlanarControlLaw con
