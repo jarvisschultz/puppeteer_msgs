@@ -23,7 +23,17 @@ find_package(catkin REQUIRED COMPONENTS geometry_msgs std_msgs message_generatio
  add_message_files(
    FILES
    RobotCommands.msg
+   FullRobotState.msg
+   PlanarControlLaw.msg
+   PlanarCovariance.msg
+   PlanarSystemConfig.msg
+   PlanarSystemState.msg
+   PointPlus.msg
+   RobotPose.msg
+   Robots.msg
+   State.msg
  )
+
 ## Generate services in the 'srv' folder
  add_service_files(
    FILES
