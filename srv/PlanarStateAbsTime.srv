@@ -1,0 +1,5 @@
+# this service takes in a ROS time, and returns a state of the system.  Could be
+# used for getting measured/estimated histories, or for references
+time t
+---
+puppeteer_msgs/PlanarSystemState state
