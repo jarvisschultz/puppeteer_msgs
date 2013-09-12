@@ -3,3 +3,4 @@
 time t
 ---
 puppeteer_msgs/PlanarSystemState state
+bool stop # if true, we should stop for some reason
