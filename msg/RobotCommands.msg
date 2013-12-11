@@ -26,6 +26,7 @@ uint8 SET_HEIGHT	= 98	#'b' | set string height configuration variables
 uint8 POSE_REQ		= 119	#'w' | request robot's (x,y,th) pose
 uint8 SPEED_REQ		= 101	#'e' | request current motor speeds
 uint8 LEN_REQ		= 99    #'c' | request the lengths of the strings
+uint8 CURRENT_TRAJ_REQ  = 122	#'z' | request the motor current trajectory
 
 ######################################
 # Still need:			
