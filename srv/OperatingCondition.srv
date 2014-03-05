@@ -1,0 +1,3 @@
+puppeteer_msgs/OperatingCondition state
+---
+bool error
